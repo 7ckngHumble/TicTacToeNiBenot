@@ -1,1 +1,1 @@
-# TicTacToeNiBenot.com
+# TicTacToeNiBenot
